@@ -1,5 +1,9 @@
 # Vanilla-Alarm-Clock
-Simple and Plan ALarm Clock made using just Hml &amp; JS
+
+About --
+
+Simple and Plan ALarm Clock made using just HTML &  JS 
+Bootstrap has been Used for a Seamless & Smooth User-Interaction and Experience .
 
 
 Input Instructions --- 
